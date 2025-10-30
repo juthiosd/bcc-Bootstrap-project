@@ -5,7 +5,7 @@
 .call{
      color: white;
      padding: 10px 18px;
-     background: linear-gradient(to right,skyblue,blue);
+     background: linear-gradient(to right, rgb(157, 156, 240),rgb(78, 78, 165));
 }
 
 
@@ -52,8 +52,16 @@ color: rgb(84, 48, 156);
      width: 100%;
      padding: 10px 0px;
      background: linear-gradient(to right, rgb(157, 156, 240),rgb(78, 78, 165));
+
      border: none;
      color: white;
 
+
+}
+
+.counterSection h2{
+     font-size: 30px;
+     font-weight: 700px;
+     color:  rgb(78, 78, 165);
 
 }
